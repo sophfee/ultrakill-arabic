@@ -487,9 +487,9 @@
 		"style_attraptor": "ATTRAPTOR",
 		"style_arsenal": "ARSENAL",
 		"style_bigheadshot": "BIG HEADSHOT",
-		"style_bigkill": "BIG KILL",
+		"style_bigkill": "قتل كبير",
 		"style_bigfistkill": "BIG FISTKILL",
-		"style_bipolar": "BIPOLAR",
+		"style_bipolar": "ثنائي القطب",
 		"style_cannonballed": "CANNONBALLED",
 		"style_catapaulted": "CATAPAULTED",
 		"style_chargeback": "CHARGEBACK",
@@ -503,7 +503,7 @@
 		"style_exploded": "EXPLODED",
 		"style_finishedoff": "FINISHED OFF",
 		"style_fireworks": "FIREWORKS",
-		"style_fistfulofdollar": "FISTFUL OF DOLLAR",
+		"style_fistfulofdollar": "حفنة من الدولار",
 		"style_fried": "FRIED",
 		"style_friendlyfire": "FRIENDLY FIRE",
 		"style_groundslam": "GROUND SLAM",
@@ -512,17 +512,17 @@
 		"style_homerun": "HOMERUN",
 		"style_instakill": "INSTAKILL",
 		"style_interruption": "INTERRUPTION",
-		"style_kill": "KILL",
+		"style_kill": "قتل",
 		"style_limbshot": "LIMBSHOT",
 		"style_mauriced": "MAURICED",
 		"style_multikill": "MULTIKILL",
 		"style_nailbombed": "NAILBOMBED",
 	"style_overkill": "OVERKILL",
-		"style_parry": "PARRY",
+		"style_parry": "صد",
 		"style_projectileboost": "PROJECTILE BOOST",
 		"style_quickdraw": "QUICKDRAW",
-		"style_ricoshot": "RICOSHOT",
-		"style_ricoshotUltra": "ULTRA",
+		"style_ricoshot": "طلقة العملة",
+		"style_ricoshotUltra": " أفضل",
 		"style_ricoshotCounter": "COUNTER",
 		"style_secret": "SECRET",
 		"style_scrindonguloded": "SCRINDONGULODED",
@@ -1579,7 +1579,7 @@
 		"shop_cybergrind": "THE CYBER GRIND",
 		"shop_sandbox": "SANDBOX",
 		"shop_returnToMission": "RETURN TO MISSION",
-		"shop_soulOrbs": "SOUL ORBS",
+		"shop_soulOrbs": "أجرامات الروح",
 		"shop_moneyCount": "<color=orange>ن</color>",
 		"shop_lotsOfMoney": "LIKE, A LOT OF <color=orange>ن</color>",
 		
@@ -1835,7 +1835,7 @@
 		"enemyname_type_greaterAngel": "GREATER ANGEL",
 		"enemyname_type_supremeAngel": "SUPREME ANGEL",
 		
-		"enemyname_type_primeSoul": "PRIME SOUL"
+		"enemyname_type_primeSoul": "أقصى الروح"
 		
 	},
 	
@@ -2221,7 +2221,7 @@
 		"tutorial_orb2": "Touch them to receive a POINT BONUS."
 	},
 	"prelude":{
-		"prelude_first_openingCredits1": "NEW BLOOD PRESENTS",
+		"prelude_first_openingCredits1": "المم جديد تقدم",
 		"prelude_first_openingCredits2": "A GAME BY ARSI 'HAKITA' PATALA",
 		"prelude_first_pipeClip": "\"PIPE CLIP LIVES.\"$T.HAKITA",
 		"prelude_first_revolverPierce1": "REVOLVER: Hold",
