@@ -788,6 +788,7 @@
 		
 	},
 	"frontend": {
+		"mainmenu_imageReplacement": "2023_improved_logo",
 		"mainmenu_earlyAccess": "مدخل مبكر",
 		"mainmenu_halloween": "HAPPY HALLOWEEN",
 		"mainmenu_easter": "HAPPY EASTER",
@@ -1771,7 +1772,7 @@
 		"shop_colorsCustomUnlockPrompt": "UNLOCK CUSTOM COLORS FOR:"
 	},
 	"enemyNames":{
-		"enemyname_filth": "FILTH",
+		"enemyname_filth": "نتانة",
 		"enemyname_stray": "ضال",
 		"enemyname_schism": "شقاق",
 		"enemyname_soldier": "SOLDIER",
@@ -1920,8 +1921,8 @@
 		"enemyBios_filth_3": "Filth are the lowest form of Husk, whose souls were too weak and unimportant to even form a complete physical body.",
 		"enemyBios_filth_4": "Even among Husks, they have the lowest intelligence, driven purely by hunger.",
 		
-		"enemyBios_filth_strategy1": "Most weapons are easily capable of taking down Filth, but their powerful jaws and sheer numbers can overwhelm a target quickly if underestimated.",
-		"enemyBios_filth_strategy2": "Explosives are the most effective way to take down swarms, but any weapon that can hit more than one target will be efficient.",
+		"enemyBios_filth_strategy1": "معظم الأسلحة قادرة بسهولة على القضاء على النتانة، لكن فكوكهم القوية وأعدادهم الهائلة قد تطغي على الهدف بسرعة إذا تم الاستهانة بهم.",
+		"enemyBios_filth_strategy2": "المتفجرات هي الطريقة الأكثر فعالية للقضاء على المجموعات، ولكن أي سلاح يمكن بإصابة أكثر من هدف واحد سيكون فعالا.",
 		
 		"enemyBios_stray_1": "While their tall stature may seem intimidating, Strays are afraid of most danger and will try to stay at a safe distance, only attacking via projectiles formed with Hell Energy. ",
 		"enemyBios_stray_2": "Although controlling and manifesting this energy is a complicated task, Strays have very low intelligence and are only able to do so via pure instinct.",
@@ -2337,7 +2338,7 @@
 		"primeSanctum_second_lockThirdLocked": "LOCK [C]",
 		"primeSanctum_second_lockUnlocked": "UNLOCKED",
 
-		"primeSanctum_second_lockOpen": "OPEN",
+		"primeSanctum_second_lockOpen": "افتح",
 		"primeSanctum_second_lockAreYouSure": "ARE YOU SURE?",
 		"primeSanctum_second_lockYes1": "FOLLOW PROTOCOL",
 		"primeSanctum_second_lockYes2": "DO NOT APPROACH IT",
@@ -2549,36 +2550,36 @@
 		"subtitles_gabrielSecondDefeated10": "إن شاء الله تكون ويلاتك كثيرة…",
 		"subtitles_gabrielSecondDefeated11": "...و أيامك قليله.",
 
-		"subtitles_sisyphusPrime_preIntro1": "هذا السجن...",
-		"subtitles_sisyphusPrime_preIntro2": "ليحتجز",
+		"subtitles_sisyphusPrime_preIntro1": "هذه سجن...",
+		"subtitles_sisyphusPrime_preIntro2": "لحتواء...",
 		"subtitles_sisyphusPrime_preIntro3": "أنا؟",
 
-		"subtitles_sisyphusPrime_intro1": "A visitor?",
-		"subtitles_sisyphusPrime_intro2": "Hmm... Indeed, I have slept long enough.",
-		"subtitles_sisyphusPrime_intro3": "The kingdom of Heaven has long since forgotten my name.",
-		"subtitles_sisyphusPrime_intro4": "And I am EAGER to make them remember.",
-		"subtitles_sisyphusPrime_intro5": "However,",
-		"subtitles_sisyphusPrime_intro6": "The blood of Minos stains your hands, and I must admit...",
-		"subtitles_sisyphusPrime_intro7": "I'm curious about your skills, Weapon.",
-		"subtitles_sisyphusPrime_intro8": "And so, before I tear down the cities and CRUSH the armies of Heaven,",
-		"subtitles_sisyphusPrime_intro9": "You shall do as an appetizer.",
-		"subtitles_sisyphusPrime_intro10": "Come forth, Child of Man...",
-		"subtitles_sisyphusPrime_intro11": "And DIE.",
+		"subtitles_sisyphusPrime_intro1": "زائر؟",
+		"subtitles_sisyphusPrime_intro2": "همم... بالفعل, أنا لقد نمت لفترة كافية.",
+		"subtitles_sisyphusPrime_intro3": "لقد المملكة الجنة نسي اسمي منذ فترة طوييلة.",
+		"subtitles_sisyphusPrime_intro4": "و أنا حريص لجعلهم يتذكرون",
+		"subtitles_sisyphusPrime_intro5": "على أن,",
+		"subtitles_sisyphusPrime_intro6": "الدم مينوس ابقع يديك, وأنا يجب إن أعترف...",
+		"subtitles_sisyphusPrime_intro7": "أنا فضولي بشأن مهاراتك يا سلاح.",
+		"subtitles_sisyphusPrime_intro8": "و إذ... من قبل أنا يهدم الميدنات و يسحق الجيوشات من جنة.",
+		"subtitles_sisyphusPrime_intro9": "يجبك إنك تكون بمثابة فاتح الشهية.",
+		"subtitles_sisyphusPrime_intro10": "تقدم يا الابن  من الرجل...",
+		"subtitles_sisyphusPrime_intro11": "...ومت!",
 
-		"subtitles_sisyphusPrime_attack1": "Nice try!",
-		"subtitles_sisyphusPrime_attack2": "BE GONE!",
-		"subtitles_sisyphusPrime_attack3": "You can't escape!",
-		"subtitles_sisyphusPrime_attack4": "DESTROY!",
-		"subtitles_sisyphusPrime_attack5": "This will hurt.",
+		"subtitles_sisyphusPrime_attack1": "محاولة جيدة!",
+		"subtitles_sisyphusPrime_attack2": "كن قد رحلت!",
+		"subtitles_sisyphusPrime_attack3": "أنت ليس يهرب!",
+		"subtitles_sisyphusPrime_attack4": "تهدم!",
+		"subtitles_sisyphusPrime_attack5": "هذه... سوف... يؤذي...",
 
-		"subtitles_sisyphusPrime_phaseChange": "YES! That's it!",
-		"subtitles_sisyphusPrime_respawnIntro": "Keep them coming!",
+		"subtitles_sisyphusPrime_phaseChange": "نعم! تلك هي!",
+		"subtitles_sisyphusPrime_respawnIntro": "ابقهم قادمين!",
 
-		"subtitles_sisyphusPrime_defeated1": "Ahh...",
-		"subtitles_sisyphusPrime_defeated2": "So concludes the life and times of King Sisyphus.",
-		"subtitles_sisyphusPrime_defeated3": "A fitting end to an existence defined by futile struggle,",
-		"subtitles_sisyphusPrime_defeated4": "Doomed from the very start...",
-		"subtitles_sisyphusPrime_defeated5": "And I don't regret a SECOND of it!"
+		"subtitles_sisyphusPrime_defeated1": "اهه...",
+		"subtitles_sisyphusPrime_defeated2": "هكذا يستنتج الحياة وزمنات من ملك سيسيفيس.",
+		"subtitles_sisyphusPrime_defeated3": "نهاية مناسبة لوجود يحددها النضال العقيم,",
+		"subtitles_sisyphusPrime_defeated4": "محكوم عليه بالفشل منذ البداية...",
+		"subtitles_sisyphusPrime_defeated5": "وليس أنا يندم واحدة ثانية منه!"
 		
 	},
 	
