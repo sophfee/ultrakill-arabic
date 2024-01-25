@@ -4,13 +4,22 @@
 		"langAuthor": "Sophie (github/sophfee), Fancy!Bee",
 		"langVersion": "1.0.1",
 		"langDisplayName": "Arabic",
-		"langRTL": "true",
-		"langHinduNumbers": "true",
+		"langRTL": true,
+		"langHinduNumbers": true,
 		"minimumModVersion": "1.3.0"
 	},
 	
 	"body": {
 		"bodyName": "قتل المتطرفال في اللغة العربية"
+	},
+
+	"Ranks": {
+		"rank_letter_d": "د",
+		"rank_letter_c": "خ",
+		"rank_letter_b": "ح",
+		"rank_letter_a": "ج",
+		"rank_letter_s": "ث",
+		"rank_letter_p": "أ"
 	},
 
 	"devMuseum": {
