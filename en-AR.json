@@ -19,7 +19,7 @@
 		"rank_letter_b": "ح",
 		"rank_letter_a": "ج",
 		"rank_letter_s": "ث",
-		"rank_letter_p": "أ"
+		"rank_letter_p": "م"
 	},
 
 	"devMuseum": {
@@ -859,15 +859,15 @@
 		"layer_prime": "أقصى",
 
 		"level_challenge": "تحدي",
-		"level_challengeCompleted": "COMPLETE",
+		"level_challengeCompleted": "مكتمل",
 
 		"level_fullIntroPrompt": "FULL INTRO?",
 		"level_fullIntroPromptYes": "نعم",
-		"level_fullIntroPromptNo": "NO",
+		"level_fullIntroPromptNo": "لأ",
 		"level_fullIntroPromptCancel": "CANCEL",
 		
-		"leaderboard_anyPercent": "ANY",
-		"leaderboard_pPercent": "P-RANK",
+		"leaderboard_anyPercent": "أي",
+		"leaderboard_pPercent": "رتبة ممتازة",
 		"leaderboard_noEntries": "no leaderboard entries"
 	},
 	"visualnovel": {
