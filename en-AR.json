@@ -2017,13 +2017,13 @@
 		"enemyBios_insurrectionist_strategy3": "The Insurrectionist's stomp is fast and destructive, so it's inadvisable to stay close for long.",
 		"enemyBios_insurrectionist_strategy4": "The Malicious Face they wield as a weapon is not a part of their body, so hitting it will not deal damage to an Insurrectionist, but this also means that it can still be used to heal even if its wielder's blood has been turned to sand.",
 		
-		"enemyBios_swordsmachine_1": "Its original form is unrecognisable after years of scavenging scrap and rebuilding itself, but among scrapheads, the Swordsmachine is quite famous due to its combat prowess and selfmade form, ugly to most but beautiful to enthusiasts, spawning many copycats. ",
-		"enemyBios_swordsmachine_2": "It wields a selfmade sword with a motor on it that, when revved, will heat the blade, cutting through most organic matter with ease. ",
-		"enemyBios_swordsmachine_3": "Due to its possessive hoarding behavior, it's one of the few machines still capable of vocalization -- an ability most have discarded for more efficient resource management.",
+		"enemyBios_swordsmachine_1": "شكله الأصلي تغيرت كثيرا بعد سنوات من جمع الخردة وإعادة بناء نفسه ولكن بين رؤوس الخردة، السوردماشين مشهور جدًا بسبب براعته القتالية وشكله العصامي. قبيحة لمعظم الناس و جميل بالنسبة للمتحمسين، مما يؤدي إلى العديد من المقلدين.",
+		"enemyBios_swordsmachine_2": "يستخدم سيفًا عصاميًا بمحرك الذي عندما يتم تسريعه، يسخن السيف، تمكينه من قطع معظم المواد العضوية بسهول. ",
+		"enemyBios_swordsmachine_3": "بسبب سلوكه في الاكتناز ،إنها واحدة من الآلات القليلة التي لا تزال قادرة على النطق. القدرة التي تجاهلها معظمهم الالات لتسهيل إدارة الموارد .",
 		
-		"enemyBios_swordsmachine_strategy1": "Despite its excellent performance against Hell's denizens, its design does not take into account extremely mobile opponents, so the best way to avoid its blade is to jump out of its vertical range.",
-		"enemyBios_swordsmachine_strategy2": "Its motorized sword makes for predictable attacks, making the Swordsmachine an excellent target for parrying.",
-		"enemyBios_swordsmachine_strategy3": "Although its use of ranged weapons is primitive at best, its sword throws can be unexpectedly accurate thanks to its mastery of the weapon.",
+		"enemyBios_swordsmachine_strategy1": "على الرغم من أدائها الممتاز ضد سكان الجحيم، إلا أن تصميمها لا يأخذ في الاعتبار الخصوم المتنقلين، لذا فإن أفضل طريقة لتجنب نصله هي القفز من نطاقه الرأسي",
+		"enemyBios_swordsmachine_strategy2": "سيفه يجعل الهجمات متوقعة مما يجعل السورد ماشين هدفا ممتازا للتفادي.",
+		"enemyBios_swordsmachine_strategy3": "على الرغم من استخدام الأسلحة النارية بدائي. إلا أن رميته السيفية دقيقة بشكل جزئي بفضل إتقانه.",
 		
 		"enemyBios_drone_1": "A mass-produced security device built as both a surveillance camera and a security guard.",
 		"enemyBios_drone_2": "Though originally built to only use non-lethal ammunition, they have scavenged parts from the defunct machines on the surface for greater efficiency at collecting blood.",
