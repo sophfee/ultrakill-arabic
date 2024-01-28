@@ -160,7 +160,7 @@
 		"museum_bookQuetzalTirado3": "Later, she recorded improvised saxophone solos for the 5-1 song \"Deep Blue\", which I edited into what you hear in the final version. She also recorded the bass clarinet drone which turned into the Sisyphean Insurrectionist's horn sound effect.",
 		"museum_bookQuetzalTirado4": "\"my mom liked the song i'm on in ultrakill, so i think at this point i count as a successful artist, right? also many thanks to the gay people, find me on that one level where the water fucks up the music, baby\"",
 
-		"museum_bookSalad1": "<b><color=#20FF20>SALAD</color> - ARTIST OF JAKITO</b>",
+		"museum_bookSalad1": "<b><color=#20FF20>سلاطة</color> - ARTIST OF JAKITO</b>",
 		"museum_bookSalad2": "Salad drew Jakito.",
 		"museum_bookSalad3": "Some of their biggest contributions include:",
 		"museum_bookSalad4": "- Jakito",
@@ -287,116 +287,119 @@
 		"museum_enemiesMaliciousFace6": "Another idea I had at one point was for there to be a hole in the back of its head, exposing the brain, allowing for nimble players to score big damage, but this also never materialized. Me coming up with all these dumb ideas, often after the model was already done, but never committing to them was, very understandably, frustrating to FlyingDog.",
 		"museum_enemiesMaliciousFace7": "The new model by Victoria is a beautiful almost 1:1 recreation that manages to keep the iconic look while improving the visual quality while actually <i>decreasing</i> its resolution.",
 
-		"museum_cinemaPlay": "PLAY",
-		"museum_cinemaStop": "STOP",
+		"museum_cinemaPlay": "ألعب",
+		"museum_cinemaStop": "أتوقف",
 
-		"museum_plaquesMuseumTitle": "HALL OF SHAME - THE ULTRAKILL DEVELOPERS",
-		"museum_plaquesArtRoom": "ART ROOM",
-		"museum_plaquesNerdRoom": "NERD ROOM",
-		"museum_plaquesRestRoom": "REST ROOM",
-		"museum_plaquesTalkRoom": "TALK ROOM",
-
-
-		"museum_plaquesHakita1": "ARSI \"HAKITA\" PATALA",
-		"museum_plaquesHakita2": "CREATOR OF ULTRAKILL",
-
-		"museum_plaquesFrancisXie1": "FRANCIS XIE",
-		"museum_plaquesFrancisXie2": "2D ARTIST",
-
-		"museum_plaquesJerichoRus1": "JERICHO RUS",
-		"museum_plaquesJerichoRus2": "2D ARIST",
-
-		"museum_plaquesBigRockBMP1": "BIGROCKBMP",
-		"museum_plaquesBigRockBMP2": "CONCEPT ARTIST",
-
-		"museum_plaquesMaxOvesson1": "MAXIMILIAN OVESSON",
-		"museum_plaquesMaxOvesson2": "2D ARTIST",
-
-		"museum_plaquesVictoriaHolland1": "VICTORIA HOLLAND",
-		"museum_plaquesVictoriaHolland2": "LEAD 2D ARTIST",
-
-		"museum_plaquesToniStigell1": "TONI STIGELL",
-		"museum_plaquesToniStigell2": "3D ARTIST",
-
-		"museum_plaquesFlyingdog1": "FLYINGDOG",
-		"museum_plaquesFlyingdog2": "3D ARTIST",
-
-		"museum_plaquesSamuelJamesBryan1": "SAMUEL JAMES BRYAN",
-		"museum_plaquesSamuelJamesBryan2": "3D ARTIST",
-
-		"museum_plaquesCameronMartin1": "CAMERON MARTIN",
-		"museum_plaquesCameronMartin2": "QUALITY ASSURANCE LEAD",
-
-		"museum_plaquesDaliaFigueroa1": "DALIA FIGUEROA",
-		"museum_plaquesDaliaFigueroa2": "QUALITY ASSURANCE",
-
-		"museum_plaquesTuckerWilkin1": "TUCKER WILKIN",
-		"museum_plaquesTuckerWilkin2": "SENIOR QUALITY ASSURANCE",
-
-		"museum_plaquesScottGurney1": "SCOTT GURNEY",
-		"museum_plaquesScottGurney2": "TECHNICAL QUALITY ASSURANCE",
-
-		"museum_plaquesPitr1": "PITR",
-		"museum_plaquesPitr2": "LEAD PROGRAMMER",
-
-		"museum_plaquesHeckteck1": "HECKTECK",
-		"museum_plaquesHeckteck2": "ADDITIONAL PROGRAMMER",
-
-		"museum_plaquesCabalcrow1": "EMANUIL \"CABALCROW\" CHIZHOV",
-		"museum_plaquesCabalcrow2": "ADDITIONAL PROGRAMMER",
-
-		"museum_plaquesLucasVarney1": "LUCAS VARNEY",
-		"museum_plaquesLucasVarney2": "ADDITIONAL PROGRAMMER",
-
-		"museum_plaquesBenMoir1": "BEN MOIR",
-		"museum_plaquesBenMoir2": "ADDITIONAL PROGRAMMER",
-
-		"museum_plaquesDaveOshry1": "DAVE OSHRY",
-		"museum_plaquesDaveOshry2": "CEO OF NEW BLOOD INTERACTIVE",
-
-		"museum_plaquesMeganeko1": "MEGANEKO",
-		"museum_plaquesMeganeko2": "GUEST COMPOSER",
-
-		"museum_plaquesKeygenChurch1": "KEYGEN CHURCH",
-		"museum_plaquesKeygenChurch2": "GUEST COMPOSER",
+		"museum_plaquesMuseumTitle": "",
+		"museum_plaquesArtRoom": "قاعة الفن",
+		"museum_plaquesNerdRoom": "قاعة المجتهدين",
+		"museum_plaquesRestRoom": "قاغة الراحة",
+		"museum_plaquesTalkRoom": "قاعة الصوت",
 		
-		"museum_plaquesHealth1": "HEALTH",
-		"museum_plaquesHealth2": "GUEST COMPOSER",
+		
+		"museum_plaquesHakita1": "هاكيتا",
+		"museum_plaquesHakita2":" صانع ألتراكيل",
 
-		"museum_plaquesQuetzalTirado1": "QUETZAL TIRADO",
-		"museum_plaquesQuetzalTirado2": "GUEST MUSICIAN",
+		"museum_plaquesFrancisXie1": "فرانسيس كسي",
+		"museum_plaquesFrancisXie2": "فنان 2د",
 
-		"museum_plaquesSalad1": "SALAD",
-		"museum_plaquesSalad2": "ARTIST OF JAKITO",
+		"museum_plaquesJerichoRus1": "جيريكو روس",
+		"museum_plaquesJerichoRus2": "فنان 2د",
 
-		"museum_plaquesJacobHHR1": "JACOB HHR",
-		"museum_plaquesJacobHHR2": "WRITER (PROSE & DIALOGUE)",
+		"museum_plaquesBigRockBMP1": "بيقروك بمب",
+		"museum_plaquesBigRockBMP2": "فنان الأفكار",
 
-		"museum_plaquesVVizard1": "VVIZARD",
-		"museum_plaquesVVizard2": "MUSEUM CREATOR",
+		"museum_plaquesMaxOvesson1": "ماكسيميليان أوفست",
+		"museum_plaquesMaxOvesson2": "فنان الإنترفاس",
 
-		"museum_plaquesAdditionalMusic": "ADDITIONAL MUSIC",
-		"museum_plaquesAdditionalCredits": "ADDITIONAL CREDITS",
+		"museum_plaquesVictoriaHolland1": "فيكتوريا هولاند",
+		"museum_plaquesVictoriaHolland2": "قاءد الفنانين 3د",
 
-		"museum_plaquesStephanWeyte1": "STEPHAN WEYTE",
-		"museum_plaquesStephanWeyte2": "VOICE OF MINOS PRIME",
+		"museum_plaquesToniStigell1": "توني ستيغل",
+		"museum_plaquesToniStigell2": "فنان 3د",
 
-		"museum_plaquesLenvalBrown1": "LENVAL BROWN",
-		"museum_plaquesLenvalBrown2": "VOICE OF SISYPHUS PRIME",
+		"museum_plaquesFlyingdog1": "فلايينق دوغ",
+		"museum_plaquesFlyingdog2": "فنان 3د",
 
-		"museum_plaquesGianniMatragrano1": "GIANNI MATRAGRANO",
-		"museum_plaquesGianniMatragrano2": "VOICE OF GABRIEL",
+		"museum_plaquesSamuelJamesBryan1": "ساميول جامس براين",
+		"museum_plaquesSamuelJamesBryan2": "فنان 3د",
 
-		"museum_plaquesJoyYoung1": "JOY YOUNG",
-		"museum_plaquesJoyYoung2": "VOICE OF OWL",
+		"museum_plaquesCameronMartin1": "كامرون مارتين",
+		"museum_plaquesCameronMartin2": "",
+		
+		"museum_plaquesDaliaFigueroa1": "داليا فيغواروا",
+		"museum_plaquesDaliaFigueroa2": "",
+		
+		"museum_plaquesTuckerWilkin1": "توكر ويلكين",
+		"museum_plaquesTuckerWilkin2": "",
 
-		"museum_plaquesMandalore1": "MANDALORE HERRINGTON",
-		"museum_plaquesMandalore2": "VOICE OF MYSERIOUS DRUID KNIGHT",
+		"museum_plaquesScottGurney1": "سكوت غورني",
+		"museum_plaquesScottGurney2": "",
 
-		"museum_rocketRace1": "ROCKET RACE",
-		"museum_rocketRace2": "START",
-		"museum_rocketRaceStart": "RACE START",
-		"museum_rocketRaceResult": "TIME:",
+		"museum_plaquesPitr1": "بيتر",
+		"museum_plaquesPitr2": "مبرمج قاءد",
+
+		"museum_plaquesHeckteck1": "هاكتاك",
+		"museum_plaquesHeckteck2": "مبرمج",
+
+		"museum_plaquesCabalcrow1": "أيمانويل 'كابالكرو' شيزهوف",
+		"museum_plaquesCabalcrow2": "مبرمج زاءد",
+
+		"museum_plaquesLucasVarney1": "لوكس فارني",
+		"museum_plaquesLucasVarney2": "مبرمج زاءد",
+
+		"museum_plaquesBenMoir1": "بان ميير",
+		"museum_plaquesBenMoir2": "مبرمج زاءد",
+
+		"museum_plaquesDaveOshry1": "دايف أوشري",
+		"museum_plaquesDaveOshry2": "",
+
+		"museum_plaquesMeganeko1": "ميغانيكو",
+		"museum_plaquesMeganeko2": "",
+
+		"museum_plaquesKeygenChurch1": "كيدجان تشورش",
+		"museum_plaquesKeygenChurch2": "",
+
+		"museum_plaquesHealth1": "هالث",
+		"museum_plaquesHealth2": "",
+
+		"museum_plaquesQuetzalTirado1": "كواتزل تيرادو",
+		"museum_plaquesQuetzalTirado2": "",
+
+		"museum_plaquesSalad1": "سلاطت",
+		"museum_plaquesSalad2": "راسم جاكيتو",
+
+		"museum_plaquesJacobHHR1": "HHR يعقوب",
+		"museum_plaquesJacobHHR2": "",
+
+		"museum_plaquesVVizard1": "فيزارد",
+		"museum_plaquesVVizard2": "صانع المتحف",
+
+		"museum_plaquesAdditionalMusic": "موسيقة زاءدة",
+		"museum_plaquesAdditionalCredits": "إعتمادات ذاءدة",
+
+		"museum_plaquesStephanWeyte1": "ستافن وايت",
+		"museum_plaquesStephanWeyte2": "",
+
+		"museum_plaquesLenvalBrown1": "لانفال براون",
+		"museum_plaquesLenvalBrown2": "",
+
+		"museum_plaquesGianniMatragrano1": "جياني ماتراغانو",
+		"museum_plaquesGianniMatragrano2": "",
+
+		"museum_plaquesJoyYoung1": "جوي يونق",
+		"museum_plaquesJoyYoung2": "",
+
+		"museum_plaquesMandalore1": "ماندالور هارنغتون",
+		"museum_plaquesMandalore2": "",
+		
+		"museum_rocketRace1": "",
+		"museum_rocketRace2": "",
+		"museum_rocketRaceStart": "",
+		"museum_rocketRaceResult": "",
+		
+
+
 		
 		"museum_spoiler1": "WARNING",
 		"museum_spoiler2": "SPOILER",
