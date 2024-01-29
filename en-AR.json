@@ -568,19 +568,19 @@
 	},
 	
 	"cyberGrind":{
-		"cybergrind_currentWave": "CURRENT WAVE",
-		"cybergrind_enemiesRemaining": "أعداء REMAINING",
+		"cybergrind_currentWave": "الموجة الحالية",
+		"cybergrind_enemiesRemaining": "الأعداء المتبقين",
 		
 		"cybergrind_wave": "موجة",
 		"cybergrind_kills": "يقتلات",
-		"cybergrind_style": "STYLE",
+		"cybergrind_style": "أسلوب",
 		"cybergrind_time": "الوقت",
 		
-		"cybergrind_cgTitle": "THE CYBER GRIND",
-		"cybergrind_previousRun": "PREVIOUS",
-		"cybergrind_bestRun": "BEST",
+		"cybergrind_cgTitle": "السيبر جرايند",
+		"cybergrind_previousRun": "سابق",
+		"cybergrind_bestRun": "افضل ما عندك",
 		
-		"cybergrind_total": "TOTAL",
+		"cybergrind_total": "المجموع",
 		
 		"cybergrind_connectingToSteam": "جاري الإشتراك إلى STEAMWORKS",
 		
