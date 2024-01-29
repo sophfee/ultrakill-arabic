@@ -404,16 +404,16 @@
 	},
 
 	"fishing": {
-		"fish_ocean": "The Ocean",
-		"fish_cavePool": "Cave Pool",
-		"fish_stream": "Stream",
-		"fish_lake": "Lake Waters",
-		"fish_lakeDeep": "Deeper Lake Waters",
-		"fish_lakeBlood": "Lake Of Blood",
-		"fish_lakeBloodLower": "Lower Bloods",
-		"fish_lakeHoly": "Holy Lake",
-		"fish_waterWell": "Water Well",
-		"fish_panOil": "Pan Oil",
+		"fish_ocean": "المحيط",
+		"fish_cavePool": "بركة الكهف",
+		"fish_stream": "الدفق",
+		"fish_lake": "مياه البحيرة",
+		"fish_lakeDeep": "مياه اليحيرة العميق",
+		"fish_lakeBlood": "بحيرة الدماء",
+		"fish_lakeBloodLower": "الدماء العميق",
+		"fish_lakeHoly": "البحيرة المقدسة",
+		"fish_waterWell": "بئر ماء",
+		"fish_panOil": "زيت المقلاة",
 
 		"fish_leaderboard": "FISH SIZE LEADERBOARD",
 
@@ -435,13 +435,13 @@
 		"fish_book9": "IHAVETOSEEIHAVETOKNOW",
 		"fish_book10": "SIZE 2.",
 
-		"fish_rodFar": "far",
-		"fish_rodClose": "close",
+		"fish_rodFar": "بعيد",
+		"fish_rodClose": "قريب",
 		"fish_rodHooked": "Hooked!",
 		"fish_outOfWater": "OUT OF WATER",
-		"fish_fishCaught": "You caught",
+		"fish_fishCaught": "لقد إصطدت",
 		"fish_cookingFailed": "Cooking failed.",
-		"fish_size": "SIZE 1",
+		"fish_size": "القياس ‍",
 
 		"fish_living": "\"It's a living.\"",
 		"fish_tooSmall": "Too small for this fish. :^(",
@@ -540,13 +540,13 @@
 		"style_splattered": "SPLATTERED",
 		"style_triplekill": "TRIPLE KILL",
 
-		"style_why": "why are you even spawning enemies here",
+		"style_why": "لماذا تضع الأعداء هنا",
 		
 		"style_conductor": "CONDUCTOR",
 		"style_crushed": "CRUSHED",
 		"style_fall": "FALL",
 		"style_minced": "MINCED",
-		"style_outofbounds": "OUT OF BOUNDS",
+		"style_outofbounds": "خارج الحدود",
 		"style_shredded": "SHREDDED",
 		"style_zapped": "ZAPPED",
 		
@@ -571,10 +571,10 @@
 		"cybergrind_currentWave": "CURRENT WAVE",
 		"cybergrind_enemiesRemaining": "أعداء REMAINING",
 		
-		"cybergrind_wave": "WAVE",
+		"cybergrind_wave": "موجة",
 		"cybergrind_kills": "يقتلات",
 		"cybergrind_style": "STYLE",
-		"cybergrind_time": "TIME",
+		"cybergrind_time": "الوقت",
 		
 		"cybergrind_cgTitle": "THE CYBER GRIND",
 		"cybergrind_previousRun": "PREVIOUS",
@@ -582,7 +582,7 @@
 		
 		"cybergrind_total": "TOTAL",
 		
-		"cybergrind_connectingToSteam": "CONNECTING TO STEAMWORKS",
+		"cybergrind_connectingToSteam": "جاري الإشتراك إلى STEAMWORKS",
 		
 		"cybergrind_friendScores": "SCORES (FRIENDS)",
 		"cybergrind_globalScores": "SCORES (GLOBAL)",
@@ -861,10 +861,10 @@
 		"level_challenge": "تحدي",
 		"level_challengeCompleted": "مكتمل",
 
-		"level_fullIntroPrompt": "FULL INTRO?",
+		"level_fullIntroPrompt": "مقدمة كاملة؟",
 		"level_fullIntroPromptYes": "نعم",
 		"level_fullIntroPromptNo": "لأ",
-		"level_fullIntroPromptCancel": "CANCEL",
+		"level_fullIntroPromptCancel": "إلغاء",
 		
 		"leaderboard_anyPercent": "أي",
 		"leaderboard_pPercent": "رتبة ممتازة",
@@ -1109,7 +1109,7 @@
 	},
 	"options": {
 		"options_title": "خيارات",
-		"options_back": "BACK",
+		"options_back": "عودة",
 		"category_general": "عام",
 		"category_controls": "تحكمات",
 		"category_graphics": "رسومات",
@@ -1284,7 +1284,7 @@
 		"assists_majorAssistsDisclaimer3": "Perfect ranks and Cyber Grind high scores cannot be achieved with \"Major Assists\" enabled.",
 		"assists_majorAssistsDisclaimerConfirm": "ENABLE MAJOR ASSISTS?",
 		"assists_majorAssistsDisclaimerConfirmYes": "نعم",
-		"assists_majorAssistsDisclaimerConfirmNo": "NO",
+		"assists_majorAssistsDisclaimerConfirmNo": "لا",
 		"assists_minorAssistsTitle": "MINOR ASSISTS",
 		"assists_minor": "MINOR ASSISTS",
 		"assists_autoAim": "AUTO AIM",
@@ -1430,7 +1430,7 @@
 		"levelName_wrathSecond": "أمواج البحر بلا نجوم",
 		"levelName_wrathThird": "سفينة البلهاء",
 		"levelName_wrathFourth": "ليفياثان",
-		"levelName_wrathSecret": "I ONLY SAY MORNING",
+		"levelName_wrathSecret": "الصياد صديق الصباح",
 		
 		"levelName_heresyFirst": "البكاء على الباكي",
 		"levelName_heresySecond": "جماليات الكراهية",
@@ -1784,7 +1784,7 @@
 		"enemyname_filth": "نتانة",
 		"enemyname_stray": "ضال",
 		"enemyname_schism": "شقاق",
-		"enemyname_soldier": "SOLDIER",
+		"enemyname_soldier": "جندي",
 		"enemyname_minos": "جثة الملك مينوس",
 		"enemyname_sentry": "SENTRY",
 		"enemyname_idol": "صنم",
@@ -1809,7 +1809,7 @@
 		"enemyname_boss_fleshPanopticon": "سجن لحم",
 		"enemyname_boss_sisyphusPrime": "سيسيفوس أقصى",
 		
-		"enemyname_boss_cerberus": "CERBERUS, GUARDIAN OF HELL",
+		"enemyname_boss_cerberus": "سيربيروس، حارس الجحيم",
 		"enemyname_boss_cancerousRodent": "CANCEROUS RODENT",
 		"enemyname_boss_veryCancerousRodent": "VERY CANCEROUS RODENT",
 		"enemyname_boss_hideousMass": "HIDEOUS MASS",
