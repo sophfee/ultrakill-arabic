@@ -2452,14 +2452,14 @@
 		"subtitles_gabriel_defeated7": "إن شاء الله تكون ويلاتك كثير،",
 		"subtitles_gabriel_defeated8": "و أيامك قليله!",
 		
-		"subtitles_mandalore_intro1": "Finally, our waiting puzzle is over!",
-		"subtitles_mandalore_intro2": "What?",
+		"subtitles_mandalore_intro1": "وأخيراً, قد إنتهى لغز إنتظارنا!",
+		"subtitles_mandalore_intro2": "ماذا؟",
 		
 		"subtitles_mandalore_taunt1": "I'm gonna fuckin' poison you!",
-		"subtitles_mandalore_taunt2": "I'm gonna shoot 'em with a gun!",
-		"subtitles_mandalore_taunt3": "You cannot imagine what you will encounter here!",
-		"subtitles_mandalore_taunt4": "Hold still!",
-		"subtitles_mandalore_taunt5": "Why are we in the past?",
+		"subtitles_mandalore_taunt2": "سوف ارميهم بالمسدس!",
+		"subtitles_mandalore_taunt3": "لا يمكنك تخيل الذي ستجده هنا!",
+		"subtitles_mandalore_taunt4": "إبقى مكانك!",
+		"subtitles_mandalore_taunt5": "لماذا عدنا للماضي؟",
 		
 		"subtitles_mandalore_attack1": "Full auto.",
 		"subtitles_mandalore_attack2": "Fuller auto!",
@@ -2580,7 +2580,7 @@
 
 		"subtitles_sisyphusPrime_attack1": "محاولة جيدة!",
 		"subtitles_sisyphusPrime_attack2": "كن قد رحلت!",
-		"subtitles_sisyphusPrime_attack3": "أنت ليس يهرب!",
+		"subtitles_sisyphusPrime_attack3": "لا مكان للمفر!",
 		"subtitles_sisyphusPrime_attack4": "تهدم!",
 		"subtitles_sisyphusPrime_attack5": "هذه... سوف... يؤذي...",
 
@@ -2588,7 +2588,7 @@
 		"subtitles_sisyphusPrime_respawnIntro": "ابقهم قادمين!",
 
 		"subtitles_sisyphusPrime_defeated1": "اهه...",
-		"subtitles_sisyphusPrime_defeated2": "هكذا تستنتج الحياة وزمنات من ملك سيسيفيس.",
+		"subtitles_sisyphusPrime_defeated2": "هكذا تستنتج حياة وزمنان الملك سيسيفيس.",
 		"subtitles_sisyphusPrime_defeated3": "نهاية مناسبة لوجود يحددها النضال العقيم,",
 		"subtitles_sisyphusPrime_defeated4": "محكوم عليه بالفشل منذ البداية...",
 		"subtitles_sisyphusPrime_defeated5": "وليس أنا يندم واحدة ثانية منه!"
